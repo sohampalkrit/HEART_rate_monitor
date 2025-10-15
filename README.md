@@ -35,9 +35,3 @@ The SolidWorks CAD software was utilized to design the enclosure. This enclosure
 
 <img src="Media/real.png" alt="3D printed Enclouser" width="300">
 
-
-## Contributors
-- [Sajitha Madugalle](https://github.com/Sajitha-Madugalle)
-- [Devnith Wijesinghe](https://github.com/devnithw)
-- [Tashin Kavishan](https://github.com/kavishanGT)
-- [Charles Jhone Peter](https://github.com/Charlie174)

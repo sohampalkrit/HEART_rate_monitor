@@ -42,8 +42,11 @@ The **enclosure was designed using SolidWorks CAD software** to provide both pro
 
 Ventilation holes are strategically placed for proper airflow and heat dissipation. The top panel hosts the **display, filter-tuning knobs**, and **indicator LEDs**, while the **power switch**, **adapter input**, and **3.5mm electrode jack** are positioned on the sides for convenient use.  
 
+<<<<<<< HEAD
 <img src="Media/real.png" alt="3D Printed Enclosure" width="300">
 
 ## Contributors
 - **Soham Palkrit** – Circuit Design, Simulation, PCB Design (EasyEDA), and Enclosure Modeling.  
 - [Additional team members or mentors can be added here if applicable.]
+=======
+>>>>>>> 4817485985c2e9f02cf127811c508ca85ece91f2
